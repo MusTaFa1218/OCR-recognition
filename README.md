@@ -1,6 +1,12 @@
 # Handwriting Recognition using CRNN
 
-**Author:** Mustafa Mahmoud Elgendy  
+**Members:**
+Hazem Sobhy Elsayed
+Mustafa Mahmoud Elgendy 
+Mohamed Abdrabo Ebaid
+Omar Ahemd Elabd
+Ibrahem Hesham Ibrahem
+
 **Date:** 2025-12-27  
 
 This project implements a Handwriting Recognition system using a Convolutional Recurrent Neural Network (CRNN) and provides a Streamlit GUI for predictions.
