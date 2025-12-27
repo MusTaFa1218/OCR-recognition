@@ -1,7 +1,7 @@
 # Handwriting Recognition using CRNN
 
 **Members:**
-Hazem Sobhy Elsayed
+**Hazem Sobhy Elsayed**
 Mustafa Mahmoud Elgendy 
 Mohamed Abdrabo Ebaid
 Omar Ahemd Elabd
